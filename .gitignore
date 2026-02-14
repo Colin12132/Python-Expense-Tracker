@@ -1,0 +1,9 @@
+# Personal data
+expenses.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
