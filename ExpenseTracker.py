@@ -145,16 +145,3 @@ while True:
 
     else:
         print("Invalid choice, Please try again!")
-
-
-
-
-
-
-#Placeholder data for later
-    #{
-        #"amount"; 12.50;
-        #"category"; "food";
-        #"date"; "2026- 02-13";
-        #"description"; "Lunch";
-    #}
