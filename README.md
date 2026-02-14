@@ -12,4 +12,5 @@ A simple expense tracker built in python.
 
 ## How to Run
 ```bash
-python expense_tracker.py
+
+python Expense_Tracker.py
